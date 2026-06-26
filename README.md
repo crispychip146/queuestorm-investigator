@@ -2,7 +2,6 @@
 
 ### Hackathon Submission Metadata
 * **Team Name**: aespo
-* **Team ID**: [Insert Team ID here]
 * **GitHub Repository URL**: https://github.com/crispychip146/queuestorm-investigator
 * **Public Endpoint Base URL**: https://queuestorm-investigator-std0.onrender.com
 
